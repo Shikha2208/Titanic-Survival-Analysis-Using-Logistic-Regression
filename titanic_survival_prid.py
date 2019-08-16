@@ -15,7 +15,7 @@ import math
 # In[9]:
 
 
-titanic_data=pd.read_csv('E:/SHIKHA_FOLDER/logistic regession/titanic/train.csv')
+titanic_data=pd.read_csv('train.csv')
 
 
 # In[11]:
